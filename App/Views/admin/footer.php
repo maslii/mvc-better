@@ -1,0 +1,3 @@
+<footer>
+    Admin Footer
+</footer>

@@ -1,0 +1,4 @@
+Options -Indexes -MultiViews
+
+RewriteEngine On
+RewriteRule (.*) /public/$1 [L,QSA]

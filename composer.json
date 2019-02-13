@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Core\\": "Core/"
+        }
+    },
+    "require": {
+        "ext-pdo": "*",
+        "ext-fileinfo": "*",
+        "ext-gd": "*",
+        "ext-exif": "*",
+        "ext-mbstring": "*"
+    }
+}
